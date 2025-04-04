@@ -1,13 +1,13 @@
-<h1 align="center">✨ Transformando datos en ideas, y código en soluciones ✨</h1>
+<h1 align="center">✨ Turning data into insight, and code into solutions ✨</h1>
 
 ---
 
-🎓 Estudiante de Ingeniería de Sistemas con una visión clara: aplicar la tecnología para construir un mundo más inteligente, humano y justo.
+🎓 I'm a Systems Engineering student with a clear vision: use technology to build a smarter, fairer, and more human world.
 
-💡 En constante evolución, exploro el poder de la **Inteligencia Artificial** y la **analítica de datos** como herramientas de transformación social.
+💡 Continuously evolving, I'm exploring the power of **Artificial Intelligence** and **data analytics** as tools for social transformation.
 
-💻 Lenguajes y herramientas que domino:
-- Python 🐍 | Java ☕ | C++ 🔧 | SQL 🗃️
+💻 Languages & tools I work with:
+- Python 🐍 | Java ☕ | C++ 🔧 | SQL 🗃️  
 - Power BI 📊 | App Inventor 📱
 
 -->
